@@ -1,6 +1,6 @@
-# aog
+# Álcool ou Gasolina
 
-A new Flutter project.
+A new Flutter project that compares the values of Ethanol and Gasoline.
 
 ## Getting Started
 
