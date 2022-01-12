@@ -2,6 +2,7 @@ import 'package:aog/widgets/logo.widget.dart';
 import 'package:aog/widgets/submit-form.dart';
 import 'package:aog/widgets/success.widget.dart';
 import 'package:flutter/material.dart';
+// ignore: import_of_legacy_library_into_null_safe
 import 'package:flutter_masked_text/flutter_masked_text.dart';
 
 class Homepage extends StatefulWidget {
